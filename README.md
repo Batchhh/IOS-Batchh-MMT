@@ -35,7 +35,7 @@ Run in terminal
 - Fill the information requested
 
 ## Documentation
-(Wiki)[https://github.com/Batchhh/IOS-Batchh-MMT/wiki]
+[Wiki](https://github.com/Batchhh/IOS-Batchh-MMT/wiki)
     
 ## Authors
 
