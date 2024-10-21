@@ -33,6 +33,9 @@ Run in terminal
 ```
 - Select "IOS-Batchh MMT 1.0"
 - Fill the information requested
+
+## Documentation
+(Wiki)[https://github.com/Batchhh/IOS-Batchh-MMT/wiki]
     
 ## Authors
 
